@@ -10,6 +10,6 @@
       style="max-height:540px;
              max-width:540px;"
       title="寒晴小弟">
-<p><h1><a href="https://jfryHPC.github.io"><b>網站連結</b></a></h1><p>
+<p><h1><a href="https://jfryhpc.github.io"><b>網站連結</b></a></h1><p>
 </div>
 <p>$$WOW$$</p>
