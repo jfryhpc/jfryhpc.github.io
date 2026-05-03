@@ -2,7 +2,7 @@
 *<p>裡面加了些奇怪的東西</p>*
 ~~之後會修改~~
 :)
-# made by jfryhpc(寒晴小弟)
+# made by jfryhpc(寒晴)
 <div align="center">
 <img
       src="images/new_icon.ico"
